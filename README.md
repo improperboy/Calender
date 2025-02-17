@@ -1,6 +1,3 @@
-Here's a `README.md` file for your project, explaining its purpose, setup instructions, and usage. 
-
-```markdown
 # Custom Date and Time Picker
 
 ## Overview
@@ -43,13 +40,10 @@ This project is a **Custom Date and Time Picker** built using **HTML, CSS, and J
 
 ## Preview
 
-https://github.com/user-attachments/assets/1c1b086f-6c48-4fe8-8537-d363d13adda8
+https://github.com/user-attachments/assets/b20b3ab5-0c9d-496e-90d6-6d5a4815c006
 
 ## Contributing
 If you’d like to contribute, please fork the repository and submit a pull request.
 
 ## License
 This project is licensed under the **MIT License**.
-```
-
-Let me know if you want to customize any part of it! 🚀
